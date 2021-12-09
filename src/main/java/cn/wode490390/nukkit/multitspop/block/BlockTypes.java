@@ -4,7 +4,7 @@ import cn.nukkit.block.Block;
 
 public final class BlockTypes {
 
-    public static final boolean[] isPlant = new boolean[256];
+    public static final boolean[] isPlant = new boolean[512];
 
     static {
         isPlant[Block.AIR] = true; //gap
