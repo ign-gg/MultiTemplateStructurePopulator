@@ -7,7 +7,7 @@
     <groupId>cn.wode490390.nukkit</groupId>
     <artifactId>multitspop</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-IGN.1</version>
+    <version>1.0.0-IGN.2</version>
     <name>Multi-Template Structure Populator</name>
     <description>Multi-template structure populator plugin for Nukkit</description>
     <url>http://wode490390.cn/</url>
